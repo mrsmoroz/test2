@@ -6,5 +6,4 @@ char first[255], last[255];
 askname(first, last);
 printf("Hello, %s %s!\n", first, last);
 return 0;
-/*change*/
 }
